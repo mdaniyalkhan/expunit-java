@@ -1,4 +1,4 @@
-# expunit
+# expunit [![CircleCI](https://circleci.com/gh/mdaniyalkhan/expunit-java/tree/master.svg?style=shield)](https://circleci.com/gh/mdaniyalkhan/expunit-java/tree/master) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/circleci/circleci-docs/master/LICENSE)
 Expression based Testing.
 
 Library main points are following:
