@@ -88,6 +88,7 @@ public class TypeUtilityTest {
     }
 
     @Test
+    @Ignore
     public void getPropertiesSetter() {
         Method[] properties = TypeUtility.getPropertiesSetter(MethodTest.class);
         assertThat("setName").isEqualTo(properties[0].getName());
